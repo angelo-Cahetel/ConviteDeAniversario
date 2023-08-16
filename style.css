@@ -30,4 +30,12 @@ body {
 
 #accept {
     cursor: pointer !important;
+    border: none;
+    font-size: 30px;
+    background-color: #0000ff;
+    color: #ddfa03;
+}
+
+#accept:hover {
+    font-size: 50px;
 }
