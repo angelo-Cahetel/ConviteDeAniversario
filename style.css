@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
+body {
+  height: 100%;
+  background: linear-gradient(yellow, purple);
+}
+
+.titluprincipal {
+  font-family: 'Russo One', sans-serif;
+  text-shadow: 2px 2px red;
+}
+
+#countdown {
+  font-family: 'Lobster', cursive;
+  font-size: 185%;
+}
+
+.adresa {
+  font-family: 'Russo One', sans-serif;
+  text-shadow: 2px 2px green;
+  font-size: 200%;
+}
+
+.listaavem {
+  padding-right: 40px;
+  list-style: square;
+  font-size: 21px;
+}
+
+#accept {
+    cursor: pointer !important;
+}
